@@ -1,0 +1,2 @@
+# miet-fp
+Functional programming
